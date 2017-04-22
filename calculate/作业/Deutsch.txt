@@ -1,0 +1,4 @@
+Bitte bewahren sie zwei dezimalstellen
+Programm beenden? (J / n)
+Die insgesamt zum Thema der maschenweite:
+Dank der Verwendung von

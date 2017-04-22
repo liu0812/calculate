@@ -1,0 +1,4 @@
+Keep two decimal places
+End program (Y/N)
+The total number of correct answer:
+Thanks for using
